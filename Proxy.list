@@ -1,3 +1,7 @@
+#自定义国外
+#未响音乐服
+DOMAIN-SUFFIX,mefun.org
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
